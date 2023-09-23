@@ -1,6 +1,6 @@
 # PHP_Blog
 
-Projet de 2ème année de DUT informatique concernant la gestion d'un journal de blogs codé en PHP
+Projet de 2ème année de DUT informatique concernant la gestion d'un journal de blogs codé en PHP (réalisé en 2021)
 
 Par Mael Chaumont et Simon Dallet
 
